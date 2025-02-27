@@ -1,5 +1,6 @@
 # BasicApps
-Apps:
--Clock
--Notepad
--Calculator
+Apps          |
+--------------|
+Clock         |
+Notepad       |
+Calculator    |
